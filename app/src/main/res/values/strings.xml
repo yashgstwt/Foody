@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">foody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank">null</string>
+    <string name="waves_of_food">Waves of food</string>
+    <string name="slogan">Deliever Favorite Food</string>
+    <string name="popular">Popular</string>
+</resources>
